@@ -1,2 +1,32 @@
-# Video-Studio-by-Shrapnel
-FREE Windows video editor and screen recorder by Shrapnel. Record gameplay, edit videos and export MP4
+# Video Studio by Shrapnel v5.3.22
+
+**FREE Windows Video Editor & Screen Recorder**
+
+Created by Captain Shrapnel.
+
+Record your gameplay, edit videos, add overlays and effects, and export your creations to MP4.
+
+### Features
+- Screen recording
+- Video editing and MP4 exporting
+- NVIDIA, AMD and Intel hardware encoding support
+- Picture editing
+- Text, picture and video overlays
+- Video filters and effects
+- Custom templates
+
+### Installation
+1. Download the Windows Setup EXE attached below.
+2. Run the installer.
+3. Follow the installation instructions.
+4. Launch Video Studio by Shrapnel.
+
+**100% FREE TO USE!**
+
+Video Studio is a standalone Windows application, not a SCUM game modification.
+
+Enjoy creating your videos!
+
+— Captain Shrapnel
+<img width="1919" height="1036" alt="Screenshot 2026-11-23 153040" src="https://github.com/user-attachments/assets/87c9fc1f-613a-469a-98dc-17f1040d67d2" />
+
