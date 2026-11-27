@@ -28,5 +28,6 @@ Video Studio is a standalone Windows application, not a SCUM game modification.
 Enjoy creating your videos!
 
 — Captain Shrapnel
-<img width="1919" height="1036" alt="Screenshot 2026-11-23 153040" src="https://github.com/user-attachments/assets/87c9fc1f-613a-469a-98dc-17f1040d67d2" />
+<img width="1913" height="1016" alt="Screenshot 2026-11-27 223406" src="https://github.com/user-attachments/assets/039534b6-acfa-4b35-b8f8-1b176cc42db4" />
+
 
