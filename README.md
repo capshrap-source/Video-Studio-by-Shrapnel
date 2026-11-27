@@ -1,4 +1,4 @@
-# Video Studio by Shrapnel v5.3.22
+# Video Studio by Shrapnel v2.0
 
 **FREE Windows Video Editor & Screen Recorder**
 
