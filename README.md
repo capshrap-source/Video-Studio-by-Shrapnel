@@ -1,3 +1,4 @@
+Updated on 28/11/2026 
 # Video Studio by Shrapnel v2.0
 
 **FREE Windows Video Editor & Screen Recorder**
